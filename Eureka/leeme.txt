@@ -1,0 +1,4 @@
+########### 15 de agosto 2020 ########
+
+* Implementa el servidor de Eureka Service Registry, donde se registraran los servicios 
+de netflix OSS 
